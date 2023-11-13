@@ -1,0 +1,10 @@
+cau 1: 5
+
+cau 2: error
+
+cau 3: d
+
+cau 4: a
+
+cau 5: a
+
